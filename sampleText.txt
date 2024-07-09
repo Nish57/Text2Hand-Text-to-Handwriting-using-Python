@@ -1,0 +1,14 @@
+It is misleading to have just my name on the cover. I could not have
+written a book like this without the help of a lot of people. I wouldd like to
+thank my publisher, Bill Pollock, my editors, Laurel Chun, Leslie Shen,
+Greg Poulos, Jennifer Griffith Delgado, and Frances Saux, and the rest
+of the staff at No Starch Press for their invaluable help. Thanks to my
+tech reviewers, Ari Lacenski and Philip James, for great suggestions,
+edits, and support.
+Many thanks to everyone at the Python Software Foundation for
+their great work. The Python community is the best one I have found in
+the tech industry.
+Finally, I would like to thank my family, friends, and the gang at
+Shotwell for not minding the busy life I have had while writing this
+book. Cheers!
+- from Automate the Boring Stuff with Python.
