@@ -8,7 +8,7 @@ No one likes lots of pages for assignments and homework, then why not make a pro
 1. PIL 
 2. sys
 # OUTPUT
-
+![image](https://github.com/Nish57/Text-To-Handwriting/assets/105223628/3f01224c-a8fe-451d-9d24-32c836f6c409)
 
 # Instructions 
 
